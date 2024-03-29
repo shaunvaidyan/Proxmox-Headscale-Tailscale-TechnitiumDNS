@@ -30,7 +30,7 @@
 	</table>
 	<br />
 	<br />
-	I wanted to document how I connected two remote sites together using a self-hosted Headscale instance &amp; on Ubuntu VMs on Proxmox hypervisors
+	I wanted to document how I connected two remote sites together using a self-hosted Headscale instance &amp; on Ubuntu LXCs on Proxmox hypervisors
 	<br />
 	<br />
 </p>
