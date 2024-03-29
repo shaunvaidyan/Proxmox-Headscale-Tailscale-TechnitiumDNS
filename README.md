@@ -4,25 +4,25 @@
 		<tr>
     			<td align="center" style="word-wrap: break-word; width: 100.0; height: 100.0">
         			<a href=https://www.proxmox.com/en/>
-            			<img src="https://github.com/shaunvaidyan/headscale-proxmox/blob/main/assets/proxmox.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Proxmox Hypervisor/><br />
+            			<img src="https://github.com/shaunvaidyan/Proxmox-Headscale-Tailscale-TechnitiumDNS/blob/main/assets/proxmox.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Proxmox Hypervisor/><br />
             			<sub style="font-size:12px"><b>Proxmox</b></sub>
 				</a>
     			</td>
 			<td align="center" style="word-wrap: break-word; width: 100.0; height: 100.0">
         			<a href=https://headscale.net/>
-            			<img src="https://github.com/shaunvaidyan/headscale-proxmox/blob/main/assets/headscale.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Headscale/><br />
+            			<img src="https://github.com/shaunvaidyan/Proxmox-Headscale-Tailscale-TechnitiumDNS/blob/main/assets/headscale.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Headscale/><br />
             			<sub style="font-size:12px"><b>Headscale</b></sub>
 				</a>
     			</td>
 			<td align="center" style="word-wrap: break-word; width: 100.0; height: 100.0">
         			<a href=https://headscale.net/>
-            			<img src="https://github.com/shaunvaidyan/headscale-proxmox/blob/main/assets/tailscale.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Tailscale/><br />
+            			<img src="https://github.com/shaunvaidyan/Proxmox-Headscale-Tailscale-TechnitiumDNS/blob/main/assets/tailscale.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Tailscale/><br />
             			<sub style="font-size:12px"><b>Tailscale</b></sub>
 				</a>
     			</td>
 			<td align="center" style="word-wrap: break-word; width: 100.0; height: 100.0">
         			<a href=https://tailscale.com>
-            			<img src="https://github.com/shaunvaidyan/headscale-proxmox/blob/main/assets/technitium.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Technitium DNS Server/><br />
+            			<img src="https://github.com/shaunvaidyan/Proxmox-Headscale-Tailscale-TechnitiumDNS/blob/main/assets/technitium.png" width="100" height="100" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Technitium DNS Server/><br />
             			<sub style="font-size:12px"><b>Technitium</b></sub>
 				</a>
     			</td>
