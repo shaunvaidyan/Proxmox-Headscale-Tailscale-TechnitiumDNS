@@ -23,3 +23,5 @@ ExecStart=/usr/local/sbin/myrouting
 [Install]
 WantedBy=multi-user.target
 ```
+
+```sudo tailscale up --accept-dns=false --accept-routes --login-server=https://headscale.svaidyan.xyz --reset```
